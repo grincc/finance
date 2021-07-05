@@ -30,7 +30,7 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 ## List of addresses
 
-### Grin General Fund
+### Grin Community Council Fund
 
 #### Grin
 
