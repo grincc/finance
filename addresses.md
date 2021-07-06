@@ -8,10 +8,6 @@
   - [Grin General Fund](#grin-general-fund)
     - [Grin](#grin)
     - [Bitcoin](#bitcoin)
-      - [Legacy](#legacy)
-      - [Segwit](#segwit)
-    - [Ethereum](#ethereum)
-    - [Zcash](#zcash)
 
 ## About
 This document is the only valid list of addresses for donations, sponsorships, or other forms of payments intended for the **Grin community council project**.
@@ -20,7 +16,7 @@ For **GRIN Original Council** payment addresses see https://github.com/mimblewim
 ## Verification
 This document should be hosted on the following address:
 
-**tbd**
+Grin Community Council Finance repository [https://github.com/grincc/finance](https://github.com/grincc/finance)
 
 ## Contact
 Any questions or concerns about authenticity can be raised publicly in the Grin community via [keybase](https://keybase.io/team/grincoin) 
@@ -38,17 +34,6 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 #### Bitcoin
 
-##### Legacy
-
-**tbd**
-
-##### Segwit
-
 `bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl`
 
 https://blockchair.com/bitcoin/address/bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl
-
-#### Ethereum
-
-Currently unavailable.
-
