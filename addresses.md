@@ -19,8 +19,7 @@ This document should be hosted on the following address:
 Grin Community Council Finance repository [https://github.com/grincc/finance](https://github.com/grincc/finance)
 
 ## Contact
-Any questions or concerns about authenticity can be raised publicly in the Grin community via [keybase](https://keybase.io/team/grincoin) 
-**tbd**
+Any questions or concerns about authenticity can be raised publicly in the Grin community via [keybase](https://keybase.io/team/grincoin).
 
 ---
 
