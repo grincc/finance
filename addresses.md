@@ -1,6 +1,6 @@
 # Grin Community Council Addresses <!-- omit in toc -->
 
-## Table of Contents <!-- omit in toc --> 
+## Table of Contents <!-- omit in toc -->
 - [About](#about)
 - [Verification](#verification)
 - [Contact](#contact)
@@ -12,7 +12,7 @@
 ## About
 This document is the only valid list of addresses for donations, sponsorships, or other forms of payments intended for the **Grin community council project**.
 
-For **GRIN Original Council** payment addresses see https://github.com/mimblewimble/grin-pm/blob/master/financials/addresses.md 
+For **GRIN Original Council** payment addresses see https://github.com/mimblewimble/grin-pm/blob/master/financials/addresses.md
 
 ## Verification
 This document should be hosted on the following address:
@@ -30,7 +30,7 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 #### Grin
 
-**tbd**
+`grin1jezf3lkcexvj3ydjwanan6khs42fr4036guh0c4vkc04fyxarl6svjzuuh`
 
 #### Bitcoin
 
