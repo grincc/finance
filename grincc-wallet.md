@@ -3,7 +3,7 @@
 ```
 ____ Wallet Summary Info - Account 'default' as of height 1495505 ____
 
- Confirmed Total                  | 3034.311415110 
+ Confirmed Total                  |  2,984.28492000 
  Awaiting Confirmation (< 10)     | 0.000000000 
  Awaiting Finalization            | 0.000000000 
  Locked by previous transaction   | 0.000000000 
