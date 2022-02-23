@@ -6,3 +6,5 @@ spend_id,date,spend_description,decision_log_id,currency,amount,exchange_rate,US
 5,20211222,BTC-GRN conversion,8,BTC,0.5,51512.84,25756.42,0.00002543,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,3AKM7YBd2ibzroQoK8yzZvqHnMXNAaUKHn,ee27a3fd3b97c9bf8c63e09d507269a8305fad835275e71baad80e426631e954,
 6,20211222, Jankie1800 Q4 2021 funding,11,BTC,0.06445053,51512.84,3320.03,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,bc1qsq0u0ap4y7qc989kdrervnryn79fug6efx8atl,ee27a3fd3b97c9bf8c63e09d507269a8305fad835275e71baad80e426631e954,
 7,20211222,Scilion mileston #1,6,BTC,0.25312564,51512.84,13039.22,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,bc1qs209nl42cc8dczluv5a8sraee9cakwap76zpxs,ee27a3fd3b97c9bf8c63e09d507269a8305fad835275e71baad80e426631e954,
+
+***note: exchange rate calculated with 60 day SMA leading to day of send*** 
