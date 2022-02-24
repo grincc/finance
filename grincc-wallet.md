@@ -32,3 +32,6 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2021-11-18 16:44:35 | 2021-11-18 16:44:35 | 1000.0 |                             |
 | 2021-11-18 21:43:28 | 2021-11-18 21:43:28 |   33.0 |                             |
 | 2021-11-08-13:37:20 | 2021-11-08-13:37:20 |  -50.0 | Donation to slatepackmarket |
+| 2022-02-07 11:58:33 | 2022-02-07 11:58:33 |57075.2 | Grin bought using BTC funds |
+| 2022-02-17 12:32:03 | 2022-02-17 12:32:03 |5026.3  | Community miner payment     |
+| 2022-02-22 08:05:04 | 2022-02-22 08:05:04 |69306.0 | Grin bought using BTC funds
