@@ -36,3 +36,6 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-02-17 12:32:03 | 2022-02-17 12:32:03 |5026.3  | Community miner payment     |
 | 2022-02-22 08:05:04 | 2022-02-22 08:05:04 |69306.0 | Grin bought using BTC funds |
 | 2022-02-22 08:20:52 | 2022-02-22 08:20:52 |10326.0 | Community miner payment     | 
+| 2022-02-22 18:58:06 | 2022-02-22 18:58:06 |7608.6  |                             |
+| 2022-02-22 18:59:50 | 2022-02-22 18:59:50 |53428.3 |                             |
+| 2022-02-22 19:02:35 | 2022-02-22 19:02:35 |67270.3 |                             |
