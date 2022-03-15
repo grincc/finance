@@ -15,6 +15,8 @@ ____ Wallet Summary Info - Account 'default' as of height 1495505 ____
 
 Amounts are given with one digit precision. Creation and confirmation times for some transactions are missing due to node crash.
 
+
+| Creation Time       | Confirmation Time   | Amount  | Note                        |
 | :------------------ | :------------------ | ------: | :---------------------------|
 | 2021-07-07 13:00:00 | 2021-07-07 13:00:00 |    10.3 |                             |
 | 2021-07-07 13:00:00 | 2021-07-07 13:00:00 |     1.0 |                             |
