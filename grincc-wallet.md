@@ -40,3 +40,5 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-02-22 18:00:00 | 2022-02-22 18:00:00 |-7608.6  | David T. FR Feb-Apr         |
 | 2022-02-22 18:00:00 | 2022-02-22 18:00:00 |-53428.3 | MCM-Mike, ship/tol miners   |
 | 2022-02-22 19:00:00 | 2022-02-22 19:00:00 |-67270.3 | Stakervali Dec-Febr         |
+|...||||
+|2022-12-06 17:00|2022-12-06 17:00|204.525|David, VPN costs mining farm|
