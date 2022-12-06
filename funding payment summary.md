@@ -12,7 +12,7 @@
 |dtavarez¹|37500€|3 August 2022|16 August 2022|19 August 2022|3|
 |cekickafa |4500€|9 September 2022|27 September 2022|19 October 2022|22|
 |satoshocrat|1500$|22 September 2022|11 October 2022|19 October 2022|8|
-|dtavarez| 3750€¹ | 3 August 2022 | 23 November 2022 | 24 November 2022 |
+|dtavarez| 3750€¹ |22 November 2022 | 23 November 2022 | 24 November 2022 |
 
 Disclaimer: GRIN payments are missing at the moment thus the table is not 100 percent comprehensive and requires additional work to reflect all payments (22.11.2022).
 
