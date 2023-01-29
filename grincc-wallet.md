@@ -59,4 +59,4 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-10-31 15:00 | 2022-10-31 15:00 | 1158.364508647 | Community miners pay-out |
 | 2022-11-09 04:00 | 2022-11-09 04:00 |-2022 | Compensation for import taxes on test miner Mattczt|
 | 2022-11-23       | 2022-11-23       |-86,855.08| David, funding request August-December 2022 
-| 2022-12-06 17:00 | 2022-12-06 17:00 |-204.525| David, VPN costs mining farm |
+| 2022-12-06 17:00 | 2022-12-06 17:00 |-204.525| VPN costs mining farm |
