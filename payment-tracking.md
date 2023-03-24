@@ -11,4 +11,12 @@
 |@naive|[Test miner electric cost Q1-2023](https://forum.grin.mw/t/closed-request-for-funding-navie-dec-2022-q1-2023/10210 ) | $27.90 CAD |12.12.2022|Paid by community member @serge||Yes|**Paid**|
 |@dtavarez |[Request funding  January-Apr/2023](https://forum.grin.mw/t/request-for-funding-davidtavarez-january-april-2023/10205)  | 30.000 €| 22.12.2022| **1.86553872 BTC**| 16,081 € |Yes|**Paid**|
 |@cobragrin |[Request funding December-March/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-december-2022-march-2023/10208/10)  | 6000 €  | 22.12.2022 |**0.37307505 BTC** | 16,081 €| Yes | **Paid** |
-|@Satoshorcrat |[Request funding Jan-April/2023](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/6)  | 4000 $  | 22.12.2022 |**0.23634708   BTC** |  16,910 $| Yes | **Paid** |
+|@Satoshocrat |[Request funding Jan-April/2023](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/6)  | 4000 $  | 22.12.2022 |**0.23634708   BTC** |  16,910 $| Yes | **Paid** |
+|@Nicolasflamel |[Python cffi secp256k1-zkp wrapper - bounty](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030/23)  | 9,952 $  | 31.01.2023 |**0.43573267   BTC** |  9,952 $| Yes | **Paid** |
+|@Nicolasflamel |[Python cffi secp256k1-zkp wrapper-bounty addition](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030/23)  | 1,466.94 $  | 07.02.2023 |**0.06423802   BTC** | 1,466.94 $| Yes | **Paid** |
+
+GRINCC BTC Fund
+
+[Balance history](https://bitinfocharts.com/bitcoin/address/bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl)
+
+![Alt text](BalanceChart.png)
