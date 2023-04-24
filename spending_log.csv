@@ -23,7 +23,7 @@ spend_id,date,spend_description,decision_log_id,currency,amount,exchange_rate,US
 22,2022-12-25,@satoshcrat Jan-Apr 2023 funding,*-,BTC,0.23634708,19840,3980,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,bc1qv34dqm5fzh6t89u9rphv80fgquzn9qlxh58kfl,7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0,
 23,2022-12-25,@cekickafa Dec-March 2023 funding,*-,BTC,0.37307505,19840,6283,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,1PFSGBzazNrWzUUDoSePb3qvvaMwKbyS7y,7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0,
 24,2023-01-31,@Nicolasflamel Python wrapper Bounty,*-,BTC,0.43568121,22840,9952,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,bc1qw8q7nk2naq2rgc5ut38mycktsywqwq3e5g60qy,ee09f1dead58f8b20f168037c6942b74f81c09ad02b6f7f9897d534a636a37ab,
-25,2023-02-07,@Nicolasflamel Python Bounty addition,*-,BTC,0.06423802,22820,1466,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,bc1qw8q7nk2naq2rgc5ut38mycktsywqwq3e5g60qy,c9143b70911c64613cd5c9b549422c74f7e8198e1b3ab9d4fa423a7a09e1e0c7
+25,2023-02-07,@Nicolasflamel Python Bounty addition,*-,BTC,0.06423802,22820,1466,,bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl,bc1qw8q7nk2naq2rgc5ut38mycktsywqwq3e5g60qy,c9143b70911c64613cd5c9b549422c74f7e8198e1b3ab9d4fa423a7a09e1e0c7,
 
 
 
