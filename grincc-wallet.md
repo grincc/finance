@@ -1,9 +1,9 @@
 (last update: 2021-11-23)
 
 ```
-____ Wallet Summary Info - Account 'default' as of height 1495505 ____
+____ Wallet Summary Info - Account 'default' as of height 	2242937 ____
 
- Confirmed Total                  | 128,307.17400000
+ Confirmed Total                  | 17,492.52430000
  Awaiting Confirmation (< 10)     | 0.000000000 
  Awaiting Finalization            | 0.000000000 
  Locked by previous transaction   | 0.000000000 
@@ -71,3 +71,4 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-12-19       | 2022-12-19 17:58 |2046.32| Community miner pay-out|
 | 2023-02-01       | 2023-02-01 12:04 |2086.39| Community miner pay-out|
 | 2023-04-03       | 2023-04-03 12:34 |17492.52| Community miner pay-out|
+| 2023-07-04 10:00 | 2023-07-04 10:00 |-5247.75| Mining facility costs|
