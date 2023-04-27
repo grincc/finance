@@ -17,3 +17,5 @@
 Disclaimer: GRIN payments are missing at the moment thus the table is not 100 percent comprehensive and requires additional work to reflect all payments (22.11.2022).
 
 ¹ *%10 of funding has been paid as 86,855.115 GRIN 24 November 2022.*  
+* Moved to [payment tracking](https://github.com/cekickafa/finance/blob/main/payment-tracking.md) with details.
+* GRINCC BTC [Spending](https://github.com/grincc/finance/blob/main/spending_log.csv) logs.
