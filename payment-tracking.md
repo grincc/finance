@@ -14,8 +14,8 @@
 |@Satoshocrat |[Request funding Jan-April/2023](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/6)  | 4000 $  | 22.12.2022 |**0.23634708   BTC** |  16,910 $| Yes | **Paid** |
 |@Nicolasflamel |[Python cffi secp256k1-zkp wrapper - bounty](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030/23)  | 9,952 $  | 31.01.2023 |**0.43573267   BTC** |  9,952 $| Yes | **Paid** |
 |@Nicolasflamel |[Python cffi secp256k1-zkp wrapper-bounty addition](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030/23)  | 1,466.94 $  | 07.02.2023 |**0.06423802   BTC** | 1,466.94 $| Yes | **Paid** |
-|@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 6300 €  | 30.05.2023 |**0.2492384 BTC** %90 | 25,277€| Yes | **Pending** |
-|@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 700 €  | 30.05.2023 |**14692 GRIN** %10 | 0.0476 €| Yes | **Pending** |
+|@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 6300 €  | 30.05.2023 |**0.2492384 BTC** %90 | 25,277€| Yes | **Paid** |
+|@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 700 €  | 30.05.2023 |**14692 GRIN** %10 | 0.0476 €| Yes | **Paid** |
 
 GRINCC BTC Fund
 

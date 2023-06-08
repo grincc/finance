@@ -39,7 +39,7 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-02-22 08:00:00 | 2022-02-22 08:00:00 | 10326.0 | Community miner pay-out     |  
 | 2022-02-22 18:00:00 | 2022-02-22 18:00:00 |-7608.6  | David T. FR Feb-Apr         |
 | 2022-02-22 18:00:00 | 2022-02-22 18:00:00 |-53428.3 | MCM-Mike, ship/tol miners   |
-| 2022-02-22 19:00:00 | 2022-02-22 19:00:00 |-67270.3 | Stakervali Dec-Febr         |
+| 2022-02-22 19:00:00 | 2022-02-22 19:00:00 |-2035    | Stakervali Dec-Febr         |
 | 2022-02-28 19:00 | 2022-02-28 19:00 |-2035.70| Jankie Request funding Dec-Feb 2021/2022|
 | 2022-05-06 20:00 | 2022-05-06 20:00 |-1444.34| GrinCC Domain name, bought by Hendi|
 | 2022-05-12 10:00 | 2022-05-12 10:00 |-17138.197120410| !Funding request, ASIC storage&ship cecky 2442.63 2x already done |
@@ -71,4 +71,5 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-12-19       | 2022-12-19 17:58 |2046.32| Community miner pay-out|
 | 2023-02-01       | 2023-02-01 12:04 |2086.39| Community miner pay-out|
 | 2023-04-03       | 2023-04-03 12:34 |17492.52| Community miner pay-out|
-| 2023-07-04 10:00 | 2023-07-04 10:00 |-5247.75| Mining facility costs|
+| 2023-04-07 10:00 | 2023-07-04 10:00 |-5247.75| Mining facility costs|
+| 2023-05-31       | 2023-05-31       |-14692 | @cekickafa GK May-Au 2023 payment|
