@@ -69,6 +69,8 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2022-10-31       | 2022-10-31 13:50 |1158.36| Community miners pay-out|
 | 2022-11-09 04:00 | 2022-11-09 04:00 |-2022 | Compensation for import taxes on test miner Mattczt|
 | 2022-11-23       | 2022-11-23       |-86,855.08| David, funding request August-December 2022  |
+| 2022-11-24 15:00 | 2022-11-24 15:00 |-281.60| |                         |
+| 2022-11-24 15:00 | 2022-11-24 15:00 |-1490.60| |                         |
 | 2022-11-24 17:00 | 2022-11-24 17:00 |804.00| Community miners pay-pout|     
 | 2022-11-24 17:00 | 2022-11-24 17:00 |860.00| Community miners pay-pout|  
 | 2022-11-24 17:00 | 2022-11-24 17:00 |2000.00| Community miners pay-pout|    
