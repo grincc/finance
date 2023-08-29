@@ -4,7 +4,7 @@
 |Requester|Payment for|Amount |Date|Currency Conversion Amount |SMA |Approved|Status
 | ----- | :-----: | -----: | -----: | -----: | -----: | ----- | ----- |
 | --- |Mining farm vpn cost|13.89 $|16.08.2022|**204.525 ツ**|0.06791 $|Yes|**Paid** |
-| --- |Aug-December funding request|3.750 €|22.11.2022|**86.855 ツ**|0.4317 $|Yes|**Paid** |
+| --- |Aug-December funding request|3.750 €|22.11.2022|**86.855 ツ**|0.04317 €|Yes|**Paid** |
 | --- |Cost of shipping miners|2200 $|22.11.2022| **0.13978 BTC**|15,739.532 $|Yes|**Paid** |
 |@mattczt3|[Test miner compensation tax bill](https://forum.grin.mw/t/request-for-funding-mattczt-october-2022/10034)  |65£ |22.11.2022 | **2022 ツ** |0.039 $|Yes|**Paid** |
 |@mattczt3|[Test miner electric cost](https://forum.grin.mw/t/request-for-funding-mattczt-october-2022/10034) |34.50 £ for November 2022|28.11.2022|**860 ツ** | 0.0401 $ ||
