@@ -16,6 +16,8 @@
 |@Nicolasflamel |[Python cffi secp256k1-zkp wrapper-bounty addition](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030/23)  | 1,466.94 $  | 07.02.2023 |**0.06423802   BTC** | 1,466.94 $| Yes | **Paid** |
 |@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 6300 €  | 30.05.2023 |**0.2492384 BTC** %90 | 25,277€| Yes | **Paid** |
 |@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 700 €  | 30.05.2023 |**14692 GRIN** %10 | 0.0476 €| Yes | **Paid** |
+|@cobragrin |[Request funding Sep-Dec/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-sep-dec-2023/10486/10)  | 7000 €  | 21.09.2023 |**0.28729813 BTC**  | 24,364 €| Yes | **Paid** |
+
 
 GRINCC BTC Fund
 
