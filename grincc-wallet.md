@@ -88,3 +88,7 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2023-08-17 12:13 | 2023-08-17     |7925.00 |                      |
 | 2023-08-17 12:13 | 2023-08-17     |88.00 |                      |
 | 2023-08-17 12:13 | 2023-08-17     |42.00 |                      |
+| 2023-10-05       | 2023-10-05       |-52| Meme contest 1st price|
+| 2023-10-05       | 2023-10-05       |-39| Meme contest 2nd price|
+| 2023-10-05       | 2023-10-05       |-26| Meme contest 3rd price|
+| 2023-10-05       | 2023-10-05       |-22| MEme contest 4rd price| 
