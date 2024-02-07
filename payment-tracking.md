@@ -23,4 +23,4 @@ GRINCC BTC Fund
 
 [Balance history](https://bitinfocharts.com/bitcoin/address/bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl)
 
-![Alt text](imgs\BalanceChart.png)
+![Alt text](<imgs/2024 balance.png>)
