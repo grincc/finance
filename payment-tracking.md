@@ -17,6 +17,8 @@
 |@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 6300 €  | 30.05.2023 |**0.2492384 BTC** %90 | 25,277€| Yes | **Paid** |
 |@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 700 €  | 30.05.2023 |**14692 GRIN** %10 | 0.0476 €| Yes | **Paid** |
 |@cobragrin |[Request funding Sep-Dec/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-sep-dec-2023/10486/10)  | 7000 €  | 21.09.2023 |**0.28729813 BTC**  | 24,364 €| Yes | **Paid** |
+|@cobragrin |[Request funding 2024-2025](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949)  | 8750 €  | 27.02.2024 |**0.18886369   BTC**  |  46,329 €| Yes | **Pending** |
+|@renzokuken |[Donation Grinventions ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/32)  | 10.000 €  | 01.03.2024 | **0.2158442 BTC**  |  46,329 €| Yes | **Pending**  |
 
 
 GRINCC BTC Fund
