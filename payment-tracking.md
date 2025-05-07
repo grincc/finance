@@ -17,10 +17,12 @@
 |@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 6300 €  | 30.05.2023 |**0.2492384 BTC** %90 | 25,277€| Yes | **Paid** |
 |@cobragrin |[Request funding May-Aug/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/10)  | 700 €  | 30.05.2023 |**14692 GRIN** %10 | 0.0476 €| Yes | **Paid** |
 |@cobragrin |[Request funding Sep-Dec/2023](https://forum.grin.mw/t/request-for-funding-cobragrin-sep-dec-2023/10486/10)  | 7000 €  | 21.09.2023 |**0.28729813 BTC**  | 24,364 €| Yes | **Paid** |
-
+|@cobragrin |[Request funding 2024-2025](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949)  | 8750 €  | 27.02.2024 |**0.18886369   BTC**  |  46,329 €| Yes | **Paid** |
+|@renzokuken |[Donation Grinventions ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/32)  | 10.000 €  | 01.03.2024 | **0.2158442 BTC**  |  46,329 €| Yes | **Paid**  |
+|@scilio |[Mwixnet implementation phase 3 ](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149/92)  | 25.000 £  | 24.05.2024 | **0.49314924 BTC**  |  67,737 $| Yes | **Paid**  |
 
 GRINCC BTC Fund
 
 [Balance history](https://bitinfocharts.com/bitcoin/address/bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl)
 
-![Alt text](imgs\BalanceChart.png)
+![Alt text](<imgs/2024 balance.png>)
