@@ -20,6 +20,11 @@
 |@cobragrin |[Request funding 2024-2025](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949)  | 8750 €  | 27.02.2024 |**0.18886369   BTC**  |  46,329 €| Yes | **Paid** |
 |@renzokuken |[Donation Grinventions ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/32)  | 10.000 €  | 01.03.2024 | **0.2158442 BTC**  |  46,329 €| Yes | **Paid**  |
 |@scilio |[Mwixnet implementation phase 3 ](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149/92)  | 25.000 £  | 24.05.2024 | **0.49314924 BTC**  |  67,737 $| Yes | **Paid**  |
+|@bruges |[Donation Grincoin.org ](https://forum.grin.mw/t/donation-to-grincoin-org/11415)| 980€       | 07.12.2024     | **0,0104166 BTC** | 97,244 $ | Yes | Pending  |
+|@cekic |[Groundskeeper funding](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615/18) | 12.600€   | 07.02.2025  | **0,136464 BTC**  | 105,002$ |Yes | Pending   |
+|@defistaker|[Grincc.mw server cost](https://github.com/grincc/agenda/blob/main/notes/2025-05-06-community-meeting-notes.md) | 456€  | 06.05.2025   | **0,0057187  BTC** | 89,306$ |Yes | Pending |
+|@wiesche|[Grin Telegram bounty](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876/16) | 2500$   | 15.07.2025 | **0,022761 BTC**    | 109,836| Yes  | Pending |
+
 
 GRINCC BTC Fund
 
