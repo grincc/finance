@@ -3,12 +3,12 @@
 ```
 ____ Wallet Summary Info - Account 'default' as of height 	2504016 ____
 
- Confirmed Total                  | 15,841.93
+ Confirmed Total                  | 17,916.42
  Awaiting Confirmation (< 10)     | 0.000000000 
  Awaiting Finalization            | 0.000000000 
  Locked by previous transaction   | 0.000000000 
  -------------------------------- | ------------- 
- Currently Spendable              | 15,841.93
+ Currently Spendable              | 17,916.42
 ```
 
 # List of all received donations and payment made:
@@ -91,4 +91,5 @@ Amounts are given with one digit precision. Creation and confirmation times for 
 | 2023-10-05       | 2023-10-05       |-52| Meme contest 1st price|
 | 2023-10-05       | 2023-10-05       |-39| Meme contest 2nd price|
 | 2023-10-05       | 2023-10-05       |-26| Meme contest 3rd price|
-| 2023-10-05       | 2023-10-05       |-22| MEme contest 4rd price| 
+| 2023-10-05       | 2023-10-05       |-22| Meme contest 4rd price| 
+|2025-05-02        | 2025-05-02       | 10000|Donation by X T, community can decide|
